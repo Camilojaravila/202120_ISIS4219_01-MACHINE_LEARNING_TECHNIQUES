@@ -11,3 +11,8 @@ Segundo Semestre - 2021
 *   Identificar las difentes técnicas de pre-procesamiento de datos.
 *   Construir Pipelines para el procesamiento y entrenamiento del modelo.
 *   Visualizar un modelo construido en producción.
+## Laboratorio 2
+### Primera Sesión
+*   Analizar conjutos de datos no estructurados
+*   Aplicar diferentes técnicas de pre-procesamiento de textos.
+*   Realizar modelos de aprendizaje probabilisticos y combinadores de clasificadores.
