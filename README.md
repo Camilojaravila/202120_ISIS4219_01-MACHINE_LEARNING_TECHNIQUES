@@ -25,4 +25,8 @@ Segundo Semestre - 2021
 *   Analizar la estructura de una Red Neuronal.
 *   Construir un modelo a través de `Keras` y `TensorFlow`.
 *   Realizar la búsqueda de hiperparámetros para ajustar una Red Neuronal.
-
+## Laboratorio 4
+### Primera Sesión
+*   Realizar la carga de imágenes para entrenar una Red Neuronal.
+*   Analizar la Arquitectura de los AutoEncoders.
+*   Realizar la transferencia de Conocimiento entre Redes.
