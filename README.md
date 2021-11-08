@@ -30,3 +30,10 @@ Segundo Semestre - 2021
 *   Realizar la carga de imágenes para entrenar una Red Neuronal.
 *   Analizar la Arquitectura de los AutoEncoders.
 *   Realizar la transferencia de Conocimiento entre Redes.
+## Laboratorio 5
+### Primera Sesión
+- Entrar en materia con las Redes Neuronales Convolucionales.
+- Conocer tácticas de aprendizaje y mejoras en el entrenamiento.
+- Familiarizarse con el aprendizaje por transferencia.
+- Entrar en más profundidad con los gadgets de `TensorFlow` y `Keras`.
+- Aprender arquitecturas neuronales, sus ventajas y desventajas.
